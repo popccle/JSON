@@ -1,0 +1,66 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Self Development",
+        "question": "What is individuality?",
+        "correct_answer": "Successful self-adjustment that categorized as positive self",
+        "incorrect_answers": [
+          "Character customization",
+          "Multiplayer experience",
+          "Achievement points"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Self Development",
+        "question": "How does the process of self-formation happen?",
+        "correct_answer": "Through the role of the people around us",
+        "incorrect_answers": [
+          "Through personal reflection and introspection",
+          "By setting achievable goals and working towards them",
+          "Through exposure to diverse cultural experiences"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Self Development",
+        "question": "How can one's self-formation be influenced?",
+        "correct_answer": "Caused by other people",
+        "incorrect_answers": [
+          "Peer pressure",
+          "Environmental factors",
+          "Genetic predisposition"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Self Development",
+        "question": "What is positive self-concept?",
+        "correct_answer": "Have high self-confidence, can face challenges with perseverance, more optimistic, and always open-minded.",
+        "incorrect_answers": [
+          "Always critical of oneself, lacks confidence, avoids challenges.",
+          "Low self-esteem, afraid of challenges, pessimistic.",
+          "Easily discouraged, closed-minded, lacks perseverance."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Self Development",
+        "question": "What is negative self-concept?",
+        "correct_answer": "Often fail, lack self-confidence, feel inferior, afraid to face challenges, and emotionally disturbed",
+        "incorrect_answers": [
+          "Positive self-image, high confidence, fearless in facing challenges, emotionally stable",
+          "Being successful, assertive, self-assured, and optimistic",
+          "Self-acceptance, inner peace, resilience, and mental strength"
+        ]
+      }
+    ]
+  }
+}
